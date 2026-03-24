@@ -30,7 +30,7 @@ SmartCart is a full-stack e-commerce web application built using the MERN stack.
 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/smartcart.git
+git clone https://github.com/Palakjindal28/SmartCart.git
 ```
 
 2. Navigate to project folder
